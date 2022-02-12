@@ -18,8 +18,8 @@
 
 
 # Methods
-1. 호텔 이름으로 붙이기 
-2. 호텔 전화번호로 붙이기
+1. 호텔 이름으로 붙이기        
+2. 호텔 전화번호로 붙이기  
 3. 호텔 위치로 붙이기
 4. 네이버 Scraping
 5. 안되는 것들은 육안으로 붙이기
@@ -38,3 +38,7 @@
 ![image](https://user-images.githubusercontent.com/87853188/153700978-aba6b94d-61e1-4242-a6fe-4929fec13b50.png)
 - 네이버 호텔 등급 정보는 호텔 등급 결정 사무국 자료에 기반함
 
+# Results
+- 1번 2번 방법으로 34개 붙음   : merged_by_1and2.csv
+- 3번 방법으로 12개 붙음      : merged_by_3.csv
+- 4번 방법으로 148개 붙음     : merged_by_naver.csv  
