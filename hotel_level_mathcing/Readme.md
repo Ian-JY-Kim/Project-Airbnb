@@ -30,3 +30,4 @@
     - 버퍼 겹치기 실행 --> 겹치는 버퍼가 같은 호텔 명 갖고 있는지 확인
 
 ![image](https://user-images.githubusercontent.com/87853188/153697684-6fde104e-75da-4cea-8379-0397d838d1b0.png)
+eg. 노란색: 1번 자료, 빨간색: 2번 자료
