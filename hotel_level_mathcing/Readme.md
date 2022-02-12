@@ -21,7 +21,8 @@
 1. 호텔 이름으로 붙이기 
 2. 호텔 전화번호로 붙이기
 3. 호텔 위치로 붙이기
-4. 안되는 것들은 육안으로 붙이기
+4. 네이버 Scraping
+5. 안되는 것들은 육안으로 붙이기
 
 - 1, 2는 python 코드로 실행 
 - 3은 QGIS에서 
@@ -32,4 +33,8 @@
 ![image](https://user-images.githubusercontent.com/87853188/153698001-808ae6d0-62ed-4e0b-9f1b-b9c505244276.png)
 
 - eg. 주황색: 1번 자료 반경 100 , 보라색: 2번 자료 반경 30 
+
+
+![image](https://user-images.githubusercontent.com/87853188/153700978-aba6b94d-61e1-4242-a6fe-4929fec13b50.png)
+- 네이버 호텔 등급 정보는 호텔 등급 결정 사무국 자료에 기반함
 
