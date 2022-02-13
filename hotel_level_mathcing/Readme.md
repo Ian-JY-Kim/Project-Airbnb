@@ -30,7 +30,7 @@
     - 두 데이터 셋 모두 반경 30m 설정해서 버퍼 그림
     - 버퍼 겹치기 실행 --> 겹치는 버퍼가 같은 호텔 명 갖고 있는지 확인
 
-![image](https://user-images.githubusercontent.com/87853188/153698001-808ae6d0-62ed-4e0b-9f1b-b9c505244276.png)
+<img src="https://user-images.githubusercontent.com/87853188/153698001-808ae6d0-62ed-4e0b-9f1b-b9c505244276.png" width="200" height="400"/>
 
 - eg. 주황색: 1번 자료 반경 100 , 보라색: 2번 자료 반경 30 
 
