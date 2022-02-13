@@ -42,5 +42,5 @@
 - 1번 2번 방법으로 34개 붙음   : merged_by_1and2.csv
 - 3번 방법으로 12개 붙음      : merged_by_3.csv
 - 4번 방법으로 148개 붙음     : merged_by_naver.csv   (네이버에서 가져온 자료는 '성급' 호칭을 씀)  
-- <b>merged_Feb11_final.dta</b> 위의 방법으로 붙은 198개 호텔 자료 
 - 5번 방법으로 7개 붙음       : hotel_left_298_eyeballing.csv
+- <b>merged_Feb11_final.dta</b> 위의 방법으로 붙은 205개 호텔 자료
