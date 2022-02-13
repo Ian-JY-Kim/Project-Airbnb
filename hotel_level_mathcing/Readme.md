@@ -40,6 +40,9 @@
 - 네이버 호텔 등급 정보는 호텔 등급 결정 사무국 자료에 기반함
 
 <img width="453" alt="image" src="https://user-images.githubusercontent.com/87853188/153735969-8f4cecbc-4d06-4e8d-9b8a-053ee52c66ad.png">
+- 네이버 검색 결과 예시
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/87853188/153735983-41a33187-f0ad-486d-8385-e73bb8a16de6.png">
+- 관광협회 자료 
 
 # Results
 - 1번 2번 방법으로 34개 붙음   : merged_by_1and2.csv
