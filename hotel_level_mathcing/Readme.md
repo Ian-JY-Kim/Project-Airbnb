@@ -39,6 +39,8 @@
 ![image](https://user-images.githubusercontent.com/87853188/153700978-aba6b94d-61e1-4242-a6fe-4929fec13b50.png)
 - 네이버 호텔 등급 정보는 호텔 등급 결정 사무국 자료에 기반함
 
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/87853188/153735969-8f4cecbc-4d06-4e8d-9b8a-053ee52c66ad.png">
+
 # Results
 - 1번 2번 방법으로 34개 붙음   : merged_by_1and2.csv
 - 3번 방법으로 12개 붙음      : merged_by_3.csv
