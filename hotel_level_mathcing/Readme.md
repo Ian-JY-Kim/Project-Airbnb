@@ -24,6 +24,7 @@
 4. 네이버 Scraping
 5. 안되는 것들은 육안으로 붙이기
 6. 네이버 Scraping 코드에서 검색 결과 다중으로 떠서 Drop 했던 자료 손으로 검색해서 붙이기
+7. 체인 호텔 육안으로 솎아내서 임의로 붙이기
 
 - 1, 2는 python 코드로 실행 
 - 3은 QGIS에서 
@@ -50,4 +51,5 @@
 - 4번 방법으로 148개 붙음     : merged_by_naver.csv   (네이버에서 가져온 자료는 '성급' 호칭을 씀)  
 - 5번 방법으로 7개 붙음       : hotel_left_298_eyeballing.csv
 - 6번 방법으로 27개 붙음      : naver_left_eyeballing.csv (자료에는 26개 존재, 추가적으로 5번 과정에서는 붙지 않았던 오동재 한옥 호텔 6번 과정에서 발견해서 손으로 붙여줌)
+- 7번 방법으로 10개 붙음      : chain_eyeballing.dta
 - <b>merged_Feb11_final.dta</b> 위의 방법으로 붙은 228개 호텔 자료
